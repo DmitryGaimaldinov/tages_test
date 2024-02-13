@@ -3,22 +3,27 @@
 Рабочую версию приложения можно посмотреть на сайте: https://thatnetwork.ru/#/tages-test
 
 Начальное состояние
-![1](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/eda796e8-a7ae-4e65-b02d-ff038ab083b6)![1_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/84c9252f-397a-42bc-af28-d0c83cadf254)
+
+![1](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/eda796e8-a7ae-4e65-b02d-ff038ab083b6)
+![1_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/84c9252f-397a-42bc-af28-d0c83cadf254)
 
 Успешное снятие денег
-![2_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/04c89e50-f416-4afc-9c53-c8a47d827e0e)
 ![2](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/09516dd8-7578-4d80-9129-784b586c6b04)
+![2_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/04c89e50-f416-4afc-9c53-c8a47d827e0e)
+
 
 
 Ошибка снятия из-за недопустимого ввода
-![3_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/6ec742f3-c8b1-469e-8358-dc5fa3164805)
 ![3](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/e30a8d1f-2b9f-4f28-b403-4c9c864da368)
+![3_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/6ec742f3-c8b1-469e-8358-dc5fa3164805)
+
 
 
 
 Ошибка снятия, когда в банкомате не хватает купюр
-![4_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/7935625c-e67f-4a1b-ae1c-b4be30391ba9)
 ![4](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/f5bc5eaf-9d32-4424-8c31-efa628fffaef)
+![4_land](https://github.com/DmitryGaimaldinov/tages_test/assets/123044629/7935625c-e67f-4a1b-ae1c-b4be30391ba9)
+
 
 
 
